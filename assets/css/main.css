@@ -49,6 +49,8 @@ label.menu-button-container::before {
 label.menu-button-container {
 	padding-left: 0px;
 	padding-right: 0px;
+  height: 1.5em;
+  width: 1.8em;
 }
 
 .top-nav {
